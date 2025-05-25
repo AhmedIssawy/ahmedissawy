@@ -48,12 +48,12 @@
 
 ### Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,dotnet,cs,fastapi," alt="Backend Technologies" />
 </div>
 
 ### Databases & Cloud
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,firebase,aws,docker" alt="Database & Cloud Technologies" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,aws,docker" alt="Database & Cloud Technologies" />
 </div>
 
 ### Development Tools
@@ -72,11 +72,10 @@
 
 ## 🎯 Current Focus
 
-- 🔍 Exploring **AI/ML integration** in web applications
-- 🚀 Building scalable **microservices** with NestJS
-- 📱 Developing **mobile-first** responsive applications
-- 🔧 Optimizing **performance** and **user experience**
 - 🌐 Contributing to **open source** projects
+- 🔍 Exploring **AI/ML integration** in web applications
+- 🚀 Building scalable **microservices**
+- 📱 Developing **mobile-first** responsive applications
 
 ---
 
@@ -103,7 +102,7 @@ const ahmed = {
     currentRole: "Full-Stack Developer",
     techStack: {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "NestJS", "Express.js", "Python"],
+        backend: ["Node.js", "NestJS", "Express.js", ".NET Core", "C#", "Python"],
         databases: ["MongoDB", "PostgreSQL", "Redis"],
         tools: ["Docker", "Git", "AWS", "Puppeteer"]
     },
