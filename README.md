@@ -86,13 +86,6 @@
 
 ---
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedIssawy/AhmedIssawy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 💼 What I'm Working On
 
 ```javascript
