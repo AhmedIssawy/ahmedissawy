@@ -131,16 +131,6 @@ const ahmed = {
 
 ---
 
-## 🎵 Fun Facts About Me
-
-- 🎮 Gaming enthusiast in my free time
-- 📚 Love reading tech blogs and staying updated with industry trends
-- 🌍 Passionate about creating solutions that make a difference
-- ☕ Coffee is my debugging fuel
-- 🧩 Enjoy solving complex algorithmic problems
-
----
-
 <div align="center">
   <h3>⭐ If you find my work interesting, consider giving it a star! ⭐</h3>
   <p><em>"Code is like humor. When you have to explain it, it's bad."</em> – Cory House</p>
