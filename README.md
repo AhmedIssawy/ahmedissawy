@@ -1,13 +1,3 @@
-## 🚀 About Me
-
-🔭 I'm a passionate **Full-Stack Developer** from **Cairo, Egypt**  
-💻 Currently working on exciting web applications and exploring new technologies  
-🌱 Always learning and staying updated with the latest tech trends  
-💡 Love to collaborate on open source projects and innovative solutions  
-⚡ Fun fact: I turn coffee into code! ☕️
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
