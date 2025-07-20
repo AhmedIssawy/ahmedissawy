@@ -1,7 +1,3 @@
-
-
----
-
 ## 🚀 About Me
 
 🔭 I'm a passionate **Full-Stack Developer** from **Cairo, Egypt**  
